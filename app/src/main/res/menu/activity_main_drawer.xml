@@ -6,15 +6,15 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/Historial"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/historial"
             android:title="Historial" />
         <item
             android:id="@+id/Estadisticas"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/porcentaje"
             android:title="Estadisticas" />
         <item
             android:id="@+id/Entrenamiento"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/navlogo"
             android:title="Empezar entenamiento" />
         <item
             android:id="@+id/Ajustes"
